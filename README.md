@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua SungHyun Song</h1>
+<h1 align="center">Hello 👋, I'm Joshua SungHyun Song</h1>
 <h3 align="center">I'm a Junior CS Major at Carleton College.</h3>
 
 
