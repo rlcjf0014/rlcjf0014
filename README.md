@@ -3,14 +3,11 @@
 
 
 - 👨‍💻 All of my projects are available at [http://sunghyunsong.com/](http://sunghyunsong.com/)
-
-- 📝 I regularly write articles on [https://rlcjf0014.github.io/](https://rlcjf0014.github.io/)
-
+- 📝 I write articles on [https://rlcjf0014.github.io/](https://rlcjf0014.github.io/)
 - 📫 How to reach me -> **joshuarule2010@gmail.com**
-
 - 📄 Know about my experiences: [https://www.linkedin.com/in/songj2/](https://www.linkedin.com/in/songj2/)
-
 - ⚡ Fun fact: I go to a college in **Northfield, Minnesota**...
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/songj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="songj2" height="30" width="40" /></a>
