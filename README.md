@@ -2,7 +2,6 @@
 <h3 align="center">I'm a Junior CS Major at Carleton College.</h3>
 
 
-- 👨‍💻 All of my projects are available at [http://sunghyunsong.com/](http://sunghyunsong.com/)
 - 📝 I write articles on [https://rlcjf0014.github.io/](https://rlcjf0014.github.io/)
 - 📫 How to reach me -> **joshuarule2010@gmail.com**
 - 📄 Know about my experiences: [https://www.linkedin.com/in/songj2/](https://www.linkedin.com/in/songj2/)
