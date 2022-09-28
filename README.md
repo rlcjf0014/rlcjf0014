@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Joshua SungHyun Song 🎆 </h1>
-<h3 align="center">I'm a Junior CS Major at Carleton College.</h3>
+<h3 align="center">I'm a Senior CS Major at Carleton College.</h3>
 
 
 - 📝 I write articles on [https://rlcjf0014.github.io/](https://rlcjf0014.github.io/)
