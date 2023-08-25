@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Joshua SungHyun Song 🎆 </h1>
-<h3 align="center">I'm a Senior CS Major at Carleton College.</h3>
 
 
 - 📫 How to reach me -> **joshuasong96@gmail.com**
 - 📄 Know about my experiences: [https://www.linkedin.com/in/songj2/](https://www.linkedin.com/in/songj2/)
-- ⚡ Fun fact: I go to a college in **Northfield, Minnesota**...
+- ⚡ Fun fact: I went to a college in **Northfield, Minnesota**...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
