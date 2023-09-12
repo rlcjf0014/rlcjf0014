@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joshua SungHyun Song 🎆 </h1>
 
 
-- 📫 How to reach me -> **joshuasong96@gmail.com**
+- 📫 How to reach me -> **joshuarule2010@gmail.com**
 - 📄 Know about my experiences: [https://www.linkedin.com/in/songj2/](https://www.linkedin.com/in/songj2/)
 - ⚡ Fun fact: I went to a college in **Northfield, Minnesota**...
 
